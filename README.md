@@ -12,4 +12,21 @@ Workspace and Notes for H2O
 #### Github Links
 - [https://github.com/h2oai/sparkling-water.git](https://github.com/h2oai/sparkling-water.git) <br/>
 
+Using Spark v2.4 <br/>
+- [http://h2o-release.s3.amazonaws.com/sparkling-water/spark-2.4/latest.html](http://h2o-release.s3.amazonaws.com/sparkling-water/spark-2.4/latest.html) <br/>
+
+Step-by_step: <br/>
+1) Download and unzip
+   ```
+   $wget http://h2o-release.s3.amazonaws.com/sparkling-water/spark-2.4/3.38.0.1-1-2.4/sparkling-water-3.38.0.1-1-2.4.zip -O /tmp/sparkling-water-3.38.0.1-1-2.4.zip
+   $unzip /tmp/sparkling-water-3.38.0.1-1-2.4.zip
+   ```
+2) View available gradle commands: <br/>
+   `$gradle tasks` <br/>
+   
+3) Go to Examples directory, and build the jar
+   ```
+   $cd 
+   $gradle build
+   ```
 #### Data Model Guide
