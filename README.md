@@ -23,6 +23,7 @@ Step-by_step: <br/>
    ```
 2) View available gradle commands: <br/>
    `$gradle tasks` <br/>
+   ![https://github.com/lel99999/dev_H2O/blob/main/sparkling-water_gradle_tasks-01.png](https://github.com/lel99999/dev_H2O/blob/main/sparkling-water_gradle_tasks-01.png) <br/>
    
 3) Go to Examples directory, and build the jar
    ```
