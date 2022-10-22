@@ -19,7 +19,7 @@ Gradle is a build automation tool. To view available gradle commands: <br/>
 `$gradle tasks` <br/>
 ![https://github.com/lel99999/dev_H2O/blob/main/sparkling-water_gradle_tasks-01.png](https://github.com/lel99999/dev_H2O/blob/main/sparkling-water_gradle_tasks-01.png) <br/>
 
-Step-by_step Example Setup and Walkthrough: <br/>
+Step-by_step Sparkling Water example setup and walkthrough: <br/>
 1) Clone following github repo:
    ```
    $git clone https://github.com/h2oai/sparkling-water.git
