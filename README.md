@@ -15,13 +15,18 @@ Workspace and Notes for H2O
 Using Spark v2.4 <br/>
 - [http://h2o-release.s3.amazonaws.com/sparkling-water/spark-2.4/latest.html](http://h2o-release.s3.amazonaws.com/sparkling-water/spark-2.4/latest.html) <br/>
 
-Step-by_step: <br/>
-1) Download and unzip
+Step-by_step Example Setup and Walkthrough: <br/>
+1) Clone following github repo:
    ```
-   $wget http://h2o-release.s3.amazonaws.com/sparkling-water/spark-2.4/3.38.0.1-1-2.4/sparkling-water-3.38.0.1-1-2.4.zip -O /tmp/sparkling-water-3.38.0.1-1-2.4.zip
-   $unzip /tmp/sparkling-water-3.38.0.1-1-2.4.zip
+   $git clone https://github.com/h2oai/sparkling-water.git
+   $cd sparkling-water/examples
+   $gradle assemble
    ```
-2) View available gradle commands: <br/>
+   ![https://github.com/lel99999/dev_H2O/blob/main/gradle_assemble-01.png](https://github.com/lel99999/dev_H2O/blob/main/gradle_assemble-01.png) <br/>
+   ![https://github.com/lel99999/dev_H2O/blob/main/gradle_assemble-02.png](https://github.com/lel99999/dev_H2O/blob/main/gradle_assemble-02.png) <br/>
+   
+   
+2) Gradle is a build automation tool. To view available gradle commands: <br/>
    `$gradle tasks` <br/>
    ![https://github.com/lel99999/dev_H2O/blob/main/sparkling-water_gradle_tasks-01.png](https://github.com/lel99999/dev_H2O/blob/main/sparkling-water_gradle_tasks-01.png) <br/>
    
