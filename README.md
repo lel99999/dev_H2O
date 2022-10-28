@@ -30,6 +30,7 @@ Step-by_step Sparkling Water example setup and walkthrough: <br/>
    ![https://github.com/lel99999/dev_H2O/blob/main/gradle_assemble-01.png](https://github.com/lel99999/dev_H2O/blob/main/gradle_assemble-01.png) <br/>
    ![https://github.com/lel99999/dev_H2O/blob/main/gradle_assemble-02.png](https://github.com/lel99999/dev_H2O/blob/main/gradle_assemble-02.png) <br/>
    
-   
+#### Running Sparkling Water on Zeppelin & Spark
+
 
 #### Data Model Guide
